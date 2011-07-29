@@ -43,6 +43,7 @@
 #include <iostream>
 #include <vector>
 #include "DGtal/base/Common.h"
+#include "DGtal/base/Linearizer.h"
 #include "DGtal/images/CValue.h"
 #include "DGtal/kernel/domains/CBoundedDomain.h"
 #include "DGtal/kernel/IntegerTraits.h"

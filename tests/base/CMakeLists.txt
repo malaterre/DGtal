@@ -2,6 +2,7 @@ SET(DGTAL_TESTS_SRC
    testBasicBoolFunctions
    testOrderedAlphabet
    testCirculator
+   testLinearizer
    )
 
 FOREACH(FILE ${DGTAL_TESTS_SRC})
